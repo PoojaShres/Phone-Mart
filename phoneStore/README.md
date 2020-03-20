@@ -68,10 +68,11 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
  
 
- PROJECT DESCRIPTION:
-    This project is a small-scale website to buy various types of cell phones. 
-    The application does not use any databases to load the data but just the data.js file, which contains all the information that is loaded in this application.
-    The project uses react-router dom to navigate between pages. The state of the app is maintened with Context. Most of the CSS Styling is done with styled-components which is a  CSS in JS pattern. This project uses not only Css stylesheets but inline styling to style some elements and component styling for Buttons.The homepage slideshow uses the custom react-slideshow image.Font Awesome is also used here for some logos.
+ ### `Project Description`
+ 
+This project is a small-scale website to buy various types of cell phones. 
+The application does not use any databases to load the data but just the data.js file, which contains all the information that is loaded in this application.
+The project uses react-router dom to navigate between pages. The state of the app is maintened with Context. Most of the CSS Styling is done with styled-components which is a  CSS in JS pattern. This project uses not only Css stylesheets but inline styling to style some elements and component styling for Buttons.The homepage slideshow uses the custom react-slideshow image.Font Awesome is also used here for some logos.
 
 
 
