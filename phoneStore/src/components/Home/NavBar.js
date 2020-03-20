@@ -11,7 +11,7 @@ class NavBar extends Component {
         <NavWrapper className="navbar navbar-expand-sm bg-light navbar-dark px-sm-5">
               
             <img src={navlogo} alt="store" className="navbar-brand"/>
-            <h1 style ={{color:'white'}}>Phone Mart</h1>
+            <h1 style ={{color:'white'}}>PHONE MART</h1>
            
           <ul className="navbar-nav align-items-center">
             <li className="nav-item ml-5">
