@@ -68,7 +68,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
  
 
- ### `Project Description`
+ ## `Project Description`
  
 This project is a small-scale website to buy various types of cell phones. 
 The application does not use any databases to load the data but just the data.js file, which contains all the information that is loaded in this application.
